@@ -1,1 +1,2 @@
-b.txt (mian did) s1
+b.txt (main did) s1
+sub did s2
